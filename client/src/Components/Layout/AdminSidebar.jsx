@@ -72,7 +72,7 @@ const productList = [
         link: "/admin/products/add-product",
       },
       {
-        title: "Add Product",
+        title: "Product list",
         link: "/admin/products",
       },
     ],
