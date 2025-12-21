@@ -82,7 +82,7 @@ export default function Home({ banners, category, products, discountedProducts, 
   return (
     <>
       <Head>
-        <title>UU ESHOP</title>
+        <title>NUB ESHOP</title>
         <meta name="description" content="Best e-commerce website" />
         <link rel="icon" href="/favicon.ico" />
         <script>

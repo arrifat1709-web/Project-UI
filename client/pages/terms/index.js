@@ -17,7 +17,7 @@ const Terms = () => {
 
       <div className="mid-container text-justify">
         <h1 className="font-semibold sm:text-2xl text-xl mt-10 mb-3">
-          Welcome to UU ESHOP !
+          Welcome to NUB ESHOP !
         </h1>
 
         <p className="my-2 ">

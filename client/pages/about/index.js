@@ -16,7 +16,7 @@ const AboutUs = () => {
         <div className="w-full md:w-2/3 mx-auto  py-5">
           <div>
             <h2 className="font-bold text-3xl text-center my-5">
-              Welcome to our UU ESHOP
+              Welcome to our NUB ESHOP
             </h2>
             <p className="text-justify">
               At UU-ESHOP, we believe in bringing you an unparalleled shopping experience that caters to all your needs under one virtual roof. From the latest gadgets to trendy fashion, from home essentials to delightful gifts, we've curated a diverse collection to delight every shopper.

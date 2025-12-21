@@ -27,7 +27,7 @@ const FAQ = () => {
               className="collapse collapse-arrow bg-accent rounded "
             >
               <div className="collapse-title font-semibold">
-                How does the UU ESHOP work?
+                How does the NUB ESHOP work?
               </div>
               <div className="collapse-content ">
                 <p className="text-sm">
@@ -127,7 +127,7 @@ const FAQ = () => {
               className="collapse collapse-arrow bg-accent rounded "
             >
               <div className="collapse-title font-semibold">
-                What is UU ESHOP EC2 auto scaling?
+                What is NUB ESHOP EC2 auto scaling?
               </div>
               <div className="collapse-content">
                 <p className="text-sm">
