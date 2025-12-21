@@ -92,7 +92,7 @@ const Checkout = () => {
       const productIdAndQuantity = localStorageCartItems?.items?.map((item) => {
         return { id: item?._id, quantity: item?.quantity };
       });
-      const url = "https://uu-e-shop-server-e7w2ppakl-hayatullabds-projects.vercel.app/api/v1/order/get-total-price";
+      const url = "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/order/get-total-price";
       handlePostMethod(url, productIdAndQuantity, setTotalPriceOfCartItem);
     }
     if (localStorageCartItems?.items?.length > 0) {

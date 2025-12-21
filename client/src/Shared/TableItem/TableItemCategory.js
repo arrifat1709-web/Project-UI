@@ -14,7 +14,7 @@ const CategoryTableItem = ({ category, index }) => {
 
   const router = useRouter();
 
-  let fethUrl = "https://uu-e-shop-server-e7w2ppakl-hayatullabds-projects.vercel.app/api/v1/category/";
+  let fethUrl = "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/category/";
   const handleDeleteCategory = (id) => {
     swal({
       title: "Are you sure?",
