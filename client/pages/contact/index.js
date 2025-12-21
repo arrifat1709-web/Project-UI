@@ -24,7 +24,7 @@ const Contacts = () => {
               </div>
               <p className="mt-5">
                 <span className="text-primary font-semibold">
-                  hayatullabd@gmail.com
+                  arrifat1709@gmail.com
                 </span>{" "}
                 Interactively grow empowered for process-centric total linkage.
               </p>
