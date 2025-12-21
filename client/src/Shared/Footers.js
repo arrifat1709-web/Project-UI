@@ -19,7 +19,7 @@ const Footers = () => {
         <div className="mid-container">
           <div className="">
             <div className=" border-b border-gray-300">
-              <footer className="footer px-0  sm:px-4 py-10 md:grid-cols-4 sm:grid-cols-3 grid-cols-2 p-10  text-base-content">
+              <footer className="footer px-0  sm:px-4 py-10 md:grid-cols-4 sm:grid-cols-3 grid-cols-1 p-10  text-base-content">
                 <div>
                   {/* <Image src={logo} alt=""/> */}
                   <Link href={"/"} className="">
