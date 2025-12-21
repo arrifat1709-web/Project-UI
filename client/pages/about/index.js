@@ -19,13 +19,13 @@ const AboutUs = () => {
               Welcome to our NUB ESHOP
             </h2>
             <p className="text-justify">
-              At UU-ESHOP, we believe in bringing you an unparalleled shopping experience that caters to all your needs under one virtual roof. From the latest gadgets to trendy fashion, from home essentials to delightful gifts, we've curated a diverse collection to delight every shopper.
+              At NUB ESHOP, we believe in bringing you an unparalleled shopping experience that caters to all your needs under one virtual roof. From the latest gadgets to trendy fashion, from home essentials to delightful gifts, we've curated a diverse collection to delight every shopper.
 
 
               <br />
               <br />
               Discover Endless Choices:
-              Explore our extensive range of products carefully selected to meet the demands of modern living. Whether you're searching for stylish apparel to revamp your wardrobe, cutting-edge electronics to upgrade your tech game, or unique decor pieces to personalize your space, UU-ESHOP has you covered.
+              Explore our extensive range of products carefully selected to meet the demands of modern living. Whether you're searching for stylish apparel to revamp your wardrobe, cutting-edge electronics to upgrade your tech game, or unique decor pieces to personalize your space, NUB ESHOP has you covered.
             </p>
           </div>
        
