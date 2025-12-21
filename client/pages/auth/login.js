@@ -53,8 +53,8 @@ const Login = () => {
 
 
   useEffect(()=>{
-    setValue("email","hayatullabd@gmail.com")
-    setValue("password","01781115586")
+    setValue("email","rejarifat999@gmail.com")
+    setValue("password","naogaon")
   },[])
 
   /*   useEffect(() => {
