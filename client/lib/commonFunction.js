@@ -35,7 +35,7 @@ export function sumOfCartPrice(product, setFunction) {
   const products = product.items;
 
   fetch(
-    "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/invoice-count-no/get-total-price",
+    "https://project-sever.vercel.app/api/v1/invoice-count-no/get-total-price",
     {
       method: "POST",
       headers: {
@@ -60,7 +60,7 @@ export function sumOfCartPrice(product, setFunction) {
 
 export function sumOfCartPrice2(products, setFunction) {
   fetch(
-    "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/invoice-count-no/get-total-price",
+    "https://project-sever.vercel.app/api/v1/invoice-count-no/get-total-price",
     {
       method: "POST",
       headers: {

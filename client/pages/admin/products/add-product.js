@@ -121,7 +121,7 @@ const AddProduct = () => {
     // console.log(product)
     // ------------------------------------------------post method here
 
-    fetch("https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/product", {
+    fetch("https://project-sever.vercel.app/api/v1/product", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

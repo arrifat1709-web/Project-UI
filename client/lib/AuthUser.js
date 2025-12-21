@@ -68,7 +68,7 @@ export default function AuthUser() {
   };
 
   const http = axios.create({
-    baseURL: "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1",
+    baseURL: "https://project-sever.vercel.app/api/v1",
     headers: {
       "Content-type": "application/json",
       Authorization: `Bearer ${token}`,

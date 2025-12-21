@@ -23,7 +23,7 @@ const OrdersTableItem = ({ order, handleInvoiceModal, refetch }) => {
     updateMethodHook(url, body, refetch);
   };
 
-  let fethUrl = "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/order/";
+  let fethUrl = "https://project-sever.vercel.app/api/v1/order/";
 
   const handleDeleteOrder = (id) => {
     swal({

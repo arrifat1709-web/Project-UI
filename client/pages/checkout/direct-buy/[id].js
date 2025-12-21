@@ -70,7 +70,7 @@ const DirectBuy = () => {
     },
   });
   // -------------------find product using id----------------
-  const productUrl = `https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/product/${id}`;
+  const productUrl = `https://project-sever.vercel.app/api/v1/product/${id}`;
 
   useEffect(() => {
     setLoading(true);

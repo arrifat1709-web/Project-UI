@@ -36,7 +36,7 @@ const UpdateCategory = () => {
     setValue,
   } = useForm();
 
-  let url = `https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/category/${id}`;
+  let url = `https://project-sever.vercel.app/api/v1/category/${id}`;
 
   useEffect(() => {
     fetch(url)
@@ -63,7 +63,7 @@ const UpdateCategory = () => {
     };
     // ------------------------------------------------post method here
     fetch(
-      `https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/category/${category._id}`,
+      `https://project-sever.vercel.app/api/v1/category/${category._id}`,
       {
         method: "PATCH",
         headers: {

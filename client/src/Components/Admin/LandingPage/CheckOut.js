@@ -117,7 +117,7 @@ const CheckOut = ({ data, loading }) => {
   //     const productIdAndQuantity = allProducts?.map((item) => {
   //       return { id: item?._id, quantity: item?.quantity };
   //     });
-  //     const url = "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/order/get-total-price";
+  //     const url = "https://project-sever.vercel.app/api/v1/order/get-total-price";
   //     handlePostMethod(url, productIdAndQuantity, setTotalPriceOfCartItem);
   //   }
   //   if (allProducts?.length > 0) {

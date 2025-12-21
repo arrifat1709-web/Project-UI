@@ -131,7 +131,7 @@ const UserInformation = ({ user, getProductId, setGetProductId }) => {
         return { id: item?._id, quantity: item?.quantity };
       });
       const url =
-        "https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/order/get-total-price";
+        "https://project-sever.vercel.app/api/v1/order/get-total-price";
       handlePostMethod(url, productIdAndQuantity, setTotalPriceOfCartItem);
     }
     if (getProductId.length > 0) {

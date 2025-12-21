@@ -38,7 +38,7 @@ const PaymentIndex = ({ order, walletAmount }) => {
 
     order.walletAmount = walletAmount;
 
-    const url = `https://project-sever-782ljcc4e-rifats-projects-5ccf7744.vercel.app/api/v1/order`;
+    const url = `https://project-sever.vercel.app/api/v1/order`;
     useUpdatePostOrder(url, order, successFunction, router);
   };
 
