@@ -37,7 +37,7 @@ const Contacts = () => {
                 <h1 className="text-xl font-semibold">Call Us</h1>
               </div>
               <p className="mt-5">
-                <span className="text-primary font-semibold">+8801781115586</span>{" "}
+                <span className="text-primary font-semibold">01784515350</span>{" "}
                 Distinctively disseminate focused solutions clicks-and-mortar
                 ministate.
               </p>
