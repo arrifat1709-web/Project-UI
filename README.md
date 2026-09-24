@@ -1,2 +1,2 @@
-# UU-Project
+# NUB-Project
 University
